@@ -1,0 +1,13 @@
+div {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+form {
+    margin-top: 25px;
+   text-align: center;
+   padding: 150px;
+}
+.Box {
+    border: 3px solid black;
+    width: 300px;
+    margin: 0 auto;
+}
